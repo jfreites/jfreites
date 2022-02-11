@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Jonathan Freites! 🔭 I’m currently working on [Distillery](https://distillery.com/)
+### Hi there 👋, I'm Jonathan Freites! 🔭 I’m currently working on [Bamba](https://vivebamba.com/)
 
 <!--
 **jfreites/jfreites** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
